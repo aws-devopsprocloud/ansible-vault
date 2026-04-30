@@ -1,6 +1,5 @@
 - name: ansible vault 
   hosts: frontend  
-  become: yes 
   tasks:
   - name: ping the host 
     ansible.builtin.ping:
