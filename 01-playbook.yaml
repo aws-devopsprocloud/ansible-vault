@@ -1,0 +1,10 @@
+- name: ansible vault 
+  hosts: frontend  
+  tasks:
+  - name: ping the host 
+    ansible.builtin.ping:
+
+
+
+    
+    
