@@ -4,5 +4,7 @@
   - name: ping the host 
     ansible.builtin.ping:
 
+
+
     
     
